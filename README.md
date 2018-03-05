@@ -8,7 +8,7 @@ Serverless Cross-platform mobile application with Flutter & AWS Lambda.
 
 ## Developer
 
-* Mohamed Labouardy <mohamed@labouardy.com>
+* Mohamed Labouardy - <mohamed@labouardy.com>
 
 ## License
 
