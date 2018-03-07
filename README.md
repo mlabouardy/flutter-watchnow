@@ -2,6 +2,10 @@
 
 Serverless Cross-platform mobile application with Flutter & AWS Lambda.
 
+<div align="center">
+    <img src="screenshot.png"/>
+</div>
+
 ## Getting Started
 
 
